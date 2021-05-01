@@ -19,6 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauragusmao&show_icons=true&theme=dark&locale=en&layout=compact" alt="lauragusmao" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragusmao&theme=dark" alt="lauragusmao" /></p>
-
 <!---https://rahuldkjain.github.io/gh-profile-readme-generator/--->
