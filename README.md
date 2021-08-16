@@ -19,7 +19,7 @@
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauragusmao&show_icons=true&theme=dark&locale=en&layout=compact" alt="lauragusmao" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=lauragusmao&show_icons=true&theme=dark&locale=en" alt="lauragusmao" /> -->
 
-[![lauragusmao's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauragusmao&theme=dark&locale=en)](https://github.com/lauragusmao/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauragusmao&show_icons=true&theme=dark&locale=en&layout=compact)](https://github.com/lauragusmao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauragusmao&show_icons=true&theme=dark&locale=en&layout=compact)](https://github.com/lauragusmao/github-readme-stats) [![lauragusmao's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauragusmao&theme=dark&locale=en)](https://github.com/lauragusmao/github-readme-stats)
 
 
 - :star2: Made with: [rahuldkjain](https://rahuldkjain.github.io/gh-profile-readme-generator/)
