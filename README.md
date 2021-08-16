@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laura Gusmão</h1>
-<h3 align="center">A software development student from Brazil.</h3>
+<h3 align="center">A Web Development student from Brazil.</h3>
 
-- 🌱 I’m currently studying software development at [Trybe](https://www.betrybe.com/)
+- 🌱 I’m currently studying Web Development at [Trybe](https://www.betrybe.com/)
 
 - 👩‍🎓 Civil Engineering graduate
 
